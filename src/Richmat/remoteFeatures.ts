@@ -115,4 +115,17 @@ export const remoteFeatures: Dictionary<number> = {
     Features.UnderBedLightsToggle |
     Features.MotorHead |
     Features.MotorFeet,
+  I7RM:
+    Features.PresetFlat |
+    Features.PresetAntiSnore |
+    Features.PresetMemory1 |
+    Features.PresetZeroG |
+    Features.UnderBedLightsToggle |
+    Features.MassageHeadStep |
+    Features.MassageFootStep |
+    Features.MassageMode |
+    Features.MassageToggle |
+    Features.MotorHead |
+    Features.MotorFeet,
+    
 };
